@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.hdi
+*.fdi
+*.d88
+/dist/
+/build/
+.streamlit/
