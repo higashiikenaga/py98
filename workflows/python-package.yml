@@ -1,4 +1,4 @@
-name: Py98 Build & Release
+name: Py98
 
 on:
   push:
